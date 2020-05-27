@@ -1,0 +1,5 @@
+bind_addr = ":8080"
+log_level = "debug"
+
+[database]
+database_url = "host=database-1.c1fzlyaabojw.eu-central-1.rds.amazonaws.com port=5432 user=postgres password=zw345b7u dbname=postgres sslmode=disable"
